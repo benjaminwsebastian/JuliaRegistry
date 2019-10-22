@@ -1,0 +1,7 @@
+name = "benjaminwsebastian"
+uuid = "d3082c08-f4ba-11e9-2d33-33786d96257d"
+repo = "https://github.com/benjaminwsebastian/JuliaRegistry.jl.git"
+description = "Personal registry"
+
+[packages]
+8dfed614-e22c-5e08-65c5234f0b40 = { name = "HMM2d", path = "HMM2d" }
