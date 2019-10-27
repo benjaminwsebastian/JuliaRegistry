@@ -1,0 +1,3 @@
+name = "MaskRCNN"
+repo = "https://github.com/benjaminwsebastian/MarkRCNN.jl.git"
+uuid = "136fc7af-e9d5-4f79-a3af-503b13f48803"
